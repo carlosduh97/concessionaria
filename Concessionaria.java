@@ -27,7 +27,7 @@ public class Concessionaria {
         }
         
         // Exibindo as informações
-        System.out.println("\n=== Resultado ===");
+        System.out.println("\n=== ResultadoS ===");
         System.out.println("Total de carros: " + Carro.getTotalCarros());
         
         System.out.println("\nPassageiros em cada carro:");
